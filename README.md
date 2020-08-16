@@ -1,2 +1,2 @@
-# Entrega-Atividade-14-08-20
+# Entrega-Atividade-14-08
 Exercícios de POO
